@@ -8,3 +8,4 @@ Bu repo deneme amaçlı açılmıştır, boştur.
 ## Gün 5
 ## Gün 6
 ## Gün 7
+## Gün 8
